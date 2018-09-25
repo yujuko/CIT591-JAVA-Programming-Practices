@@ -2,7 +2,13 @@
 public class MGTester {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		MathSequenceGenerator mg = new MathSequenceGenerator(3,10);
+		
+		while(mg.hasNext()) {
+			System.out.println(mg.next());
+			
+		}
 
 	}
 
