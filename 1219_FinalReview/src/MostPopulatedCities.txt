@@ -1,0 +1,5 @@
+"New York" 18,604,000
+Cairo 19,128,000
+Osaka 20,337,000
+"Mexico City" 21,157,000
+Beijing 21,240,000
